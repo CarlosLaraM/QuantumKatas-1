@@ -122,14 +122,17 @@ Here is the learning path we suggest you to follow if you are starting to learn 
 * **[Ripple-carry adder](./RippleCarryAdder/)**.
   Build a ripple-carry adder on a quantum computer.
 
-#### Miscellaneous
+#### Quantum error correction
 
-* **[BB84 protocol](./KeyDistribution_BB84/)**.
-  Implement the BB84 key distribution algorithm.
 * **[Quantum error correction (tutorial)](./tutorials/QuantumErrorCorrection/)**.
   Learn to implement QEC codes to protect qubits from errors due to decoherence and other quantum noise.
 * **[Bit-flip error correcting code](./QEC_BitFlipCode/)**.
   Learn about a 3-qubit error correcting code for protecting against bit-flip errors.
+
+#### Miscellaneous
+
+* **[BB84 protocol](./KeyDistribution_BB84/)**.
+  Implement the BB84 key distribution algorithm.
 * **[Unitary patterns](./UnitaryPatterns/)**.
   Learn to implement unitaries with matrices that follow certain patterns of zero and non-zero elements.
 * **[Quantum classification (tutorial)](./tutorials/QuantumClassification/)**.
